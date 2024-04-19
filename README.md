@@ -1,3 +1,5 @@
 # Sales_Analysis---Excel
 ## Project overview:
 This project has been carried out using Excel to analyze sales data. By inserting sales information into Excel and using its tools, we can uncover important insights about business's performance. By leveraging Excel's powerful analytical tools and functions, such as pivot tables, charts, and formulas, businesses can gain a comprehensive understanding of their sales data. This analysis enables them to identify customer count, customer segments, geographic regions, profit trends, and top customers as well as track key performance indicators like sales growth, profitability, and customer retention. Excel's flexibility and accessibility make it a popular choice for conducting sales analysis, offering businesses the ability to customize and tailor their analyses to suit their specific needs and objectives. This analysis will help us make better decisions about pricing, promotions, and where to focus our sales efforts for maximum impact and profitability.
+
+![Screenshot (39)](https://github.com/ShekharSunilKhamkar/Sales_Analysis---Excel/assets/167413419/879a266b-29d8-4e62-a580-1ad93a9e661a)
